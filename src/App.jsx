@@ -49,7 +49,7 @@ function App() {
   </main>
 
   <footer className="app-footer">
-    Created by Vikki – Feedback Collector © 2025
+    Created by <a href="https://github.com/vickyrathode" target="_blank" rel="noreferrer" style={{ color: "#007bff" }}>Vikki Rathod</a> – Feedback Collector © 2025
   </footer>
 </div>
 
